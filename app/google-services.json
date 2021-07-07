@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "732581252006",
+    "project_id": "progmob-tubes",
+    "storage_bucket": "progmob-tubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732581252006:android:db25b66342bbc3ffc41d67",
+        "android_client_info": {
+          "package_name": "com.agung.LoginRegister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732581252006-91vloj3g562hqq016vqdg4cnjdg8kr6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMH0Czf2smP80KxlOcU6d6H1P15A_d-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732581252006-91vloj3g562hqq016vqdg4cnjdg8kr6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732581252006:android:f2a4f75b51043e01c41d67",
+        "android_client_info": {
+          "package_name": "com.agung.sedated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732581252006-91vloj3g562hqq016vqdg4cnjdg8kr6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMH0Czf2smP80KxlOcU6d6H1P15A_d-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732581252006-91vloj3g562hqq016vqdg4cnjdg8kr6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

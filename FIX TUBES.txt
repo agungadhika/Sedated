@@ -1,0 +1,8 @@
+Nama Aplikasi : Sedated
+Sistem Informasi tentang Penyakit
+Tentang makanan yang disarankan
+atau makanan yang dihindari
+Obat apa saja yang disarankan dikonsumsi
+Obat Herbal
+
+https://www.youtube.com/watch?v=Es8AZjsu94M
